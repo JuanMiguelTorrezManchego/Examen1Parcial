@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.exe
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.deps.json
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.runtimeconfig.json
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.runtimeconfig.dev.json
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.dll
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\bin\Debug\netcoreapp3.1\pregunta1.pdb
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.Form1.resources
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.dll
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.pdb
+C:\Users\Miguel\source\repos\pregunta1\pregunta1\obj\Debug\netcoreapp3.1\pregunta1.genruntimeconfig.cache
