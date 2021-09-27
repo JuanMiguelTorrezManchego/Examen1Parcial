@@ -1,0 +1,27 @@
+// Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
+// See the 'F# Tutorial' project for more help.
+
+// Define a function to construct a message to print
+open System
+
+let suma a = a+a
+
+
+
+let summation  a b c =
+    let function_result_set: int list = [for a in 1..b do yield c |> func]
+    function_result_set |> List.sum
+
+[<EntryPoint>]
+let main argv =
+    let a = 21
+    let b = 3
+    let c = a
+    System.Console.WriteLine(summation  a b c)
+
+    //printf "%d"<| summation id 1 5
+
+
+    Console.ReadKey() |>ignore
+    
+    0 // return an integer exit code
