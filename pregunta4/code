@@ -1,0 +1,15 @@
+open System
+
+[<EntryPoint>]
+let main argv =
+    
+
+    let list = [1..10]
+    let listP = List.filter (fun x -> x%2 =0) list
+    let listI = List.filter (fun x -> x%2 =1) list
+    printfn "%A" list
+    printfn "%A" listP
+    printfn "%A" listI
+
+    Console.ReadKey()   |>ignore
+    0 // return an integer exit code
